@@ -1,3 +1,4 @@
+![GitHub Repo stars](https://img.shields.io/github/stars/MohammadYAmmar/Shell-script-Video-to-GIF-Windows-Subsystem-Linux?style=social)
 # Open Shell script in Windows by Subsystem Linux 
 # Example: Video to GIF
 
@@ -82,5 +83,6 @@ My LinkedIn: https://www.linkedin.com/in/mohammad-y-ammar/
 If you have seen the description and tool with codes, can you recommend my Java or Shell scripting programming skills on LinkedIn? :)
 
 Do not forget to give the project a star ⭐🌟 to encourage us to continue if you liked it.
+
 
 Thank you for reading all of this to benefit you instead of just copying and pasting ✂!
