@@ -1,4 +1,3 @@
-![GitHub Repo stars](https://img.shields.io/github/stars/MohammadYAmmar/Shell-script-Video-to-GIF-Windows-Subsystem-Linux?style=social)
 # Open Shell script in Windows by Subsystem Linux 
 # Example: Video to GIF
 
@@ -15,7 +14,8 @@ The attached example for converting any video into an animated image (GIF) via t
 Simply, run the java program and put a script in the same folder, and Video if use the attached example to convert to GIF.
 Hope it helps you.
 [[To see tool with convet to GIF and AR to open any Shell script in Windows by Subsystem Linux](https://github.com/MohammadYAmmar/Shell-script-Video-to-GIF-Windows-Subsystem-Linux/tree/main/Open_Shell_Windows/out/artifacts/Open_Shell_Windows_jar)] 
-The files in `Shell-script-Video-to-GIF-Windows-Subsystem-Linux/Open_Shell_Windows/out/artifacts/Open_Shell_Windows_jar/`
+
+The files in repo in `Shell-script-Video-to-GIF-Windows-Subsystem-Linux/Open_Shell_Windows/out/artifacts/Open_Shell_Windows_jar/`
 
 
 # What are the requirements?
@@ -83,6 +83,8 @@ My LinkedIn: https://www.linkedin.com/in/mohammad-y-ammar/
 If you have seen the description and tool with codes, can you recommend my Java or Shell scripting programming skills on LinkedIn? :)
 
 Do not forget to give the project a star ⭐🌟 to encourage us to continue if you liked it.
+
+![GitHub Repo stars](https://img.shields.io/github/stars/MohammadYAmmar/Shell-script-Video-to-GIF-Windows-Subsystem-Linux?style=social)
 
 
 Thank you for reading all of this to benefit you instead of just copying and pasting ✂!
