@@ -29,6 +29,11 @@ https://aka.ms/wslstore
 2 - Depends on the system you will be running it on, if you need to run Windows you will need Java as well as Linux as a subsystem.
 Linux is enough just shell script.
 
+# Results:
+This shows successful 
+   ![alt text](https://github.com/MohammadYAmmar/Shell-script-Video-to-GIF-Windows-Subsystem-Linux/blob/main/Structure%20and%20Media%20of%20project/GIF%20of%20tool%20result.gif "GIF of result")
+
+
 # Introduction:
 I learned a course in YouTube how to write a shell script and I liked how it can facilitate many operations in Linux, so I liked to take advantage of it in my platform, which is currently Windows 10, so I decided to facilitate a more practical process that I implement when describing a repository in GitHub, which is to convert the video into an animation, then instead of Entering the Linux terminal every time to run the shell, I decided to make a Java program whose purpose is to be an intermediary to run the shell script in two clicks and as quickly as possible. I will not need to open programs for conversion and sites that convert online anymore!
 
@@ -56,17 +61,10 @@ todo design Strucure
    ![alt text]( "figure 1: ")
 
 2. Create 
- 
 
-# Results:
-This shows successful 
-
-todo
 
 # Conclusion:
 todo
-
-
 
 ---
 # Future work
