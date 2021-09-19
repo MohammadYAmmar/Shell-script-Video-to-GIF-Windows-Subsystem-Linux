@@ -16,7 +16,6 @@ Hope it helps you.
 [[To see tool with convet to GIF and AR to open any Shell script in Windows by Subsystem Linux](https://github.com/MohammadYAmmar/Shell-script-Video-to-GIF-Windows-Subsystem-Linux/tree/main/Open_Shell_Windows/out/artifacts/Open_Shell_Windows_jar)] 
 The files in `Shell-script-Video-to-GIF-Windows-Subsystem-Linux/Open_Shell_Windows/out/artifacts/Open_Shell_Windows_jar/`
 
-todo covert to relase program
 
 # What are the requirements?
 Depends on where you will be running it, if on Windows you will need Java to run in addition to Linux as a subsystem.
@@ -27,7 +26,8 @@ https://aka.ms/wslstore
 Linux is enough just shell script.
 
 # Results:
-This shows successful 
+This shows the process of seeing the result using the tool [for the record, this is an animation that I converted through the tool]
+
    ![alt text](https://github.com/MohammadYAmmar/Shell-script-Video-to-GIF-Windows-Subsystem-Linux/blob/main/Structure%20and%20Media%20of%20project/GIF%20of%20tool%20result.gif "GIF of result")
 
 
@@ -36,14 +36,12 @@ I learned a course in YouTube how to write a shell script and I liked how it can
 
 # Implementation:
 I am using IDE is intelliJ IDEA Ultimate 2021.2 to java project and bulid JAR files. 
+For programming the shell script was on the terminal via nano , or notepad++
 
 This is the project structure that explains the tool sequence, I designed it with (draw.io Diagrams)
 
 ![alt text](https://github.com/MohammadYAmmar/Shell-script-Video-to-GIF-Windows-Subsystem-Linux/blob/main/Structure%20and%20Media%20of%20project/Picture%20of%20project%20Sequence%20Structure.png "figure of Strucure")
 
-
-In the beginning, 
-todo
 
 # Shell script:
 During the work of the project, some problems have occurred, 
@@ -54,14 +52,14 @@ During the work of the project, some problems have occurred,
 todo design Strucure
 
 # Steps to  :
-1. Firstly 
+1. todo 
    ![alt text]( "figure 1: ")
 
-2. Create 
 
 
 # Conclusion:
-todo
+This project I loved doing because it is a tool that saves my time when explaining any github project repository interactively without the need for programs that take time or convert online, which reduces the accuracy and limits the number of frames according to the length of the video, this tool from any system I am in works efficiently!
+I will keep updating it, God willing
 
 ---
 # Future work
