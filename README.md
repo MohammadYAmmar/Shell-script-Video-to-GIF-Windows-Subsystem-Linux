@@ -1,4 +1,5 @@
-# Open Shell script in Windows by Subsystem Linux | Example: Video to GIF
+# Open Shell script in Windows by Subsystem Linux 
+# Example: Video to GIF
 
 Repo name: Shell script Video to GIF Windows Subsystem Linux 
 Description: It's a tool to convert video to GIF high quality that I'll use every day. I program a shell script with a click via Java using the Linux subsystem in Windows.
@@ -8,17 +9,14 @@ todo media folder 📼
 
 
 # What is it?
-todo 2
 This utility program is helpful when you need to run any shell script in Windows if already installed subsystem Linux.
 The attached example for converting any video into an animated image (GIF) via the (FFmpeg) tool in Linux.
 
 # How to use it?
-todo 2
 Simply, run the java program and put a script in the same folder, and Video if use the attached example to convert to GIF.
 Hope it helps you.
-[[To see tool with convet to GIF ](https://github.com/MohammadYAmmar/)] todo
-
-[[To see JAR to open any Shell script in Windows by Subsystem Linux ](https://github.com/MohammadYAmmar/)] todo
+[[To see tool with convet to GIF and AR to open any Shell script in Windows by Subsystem Linux](https://github.com/MohammadYAmmar/Shell-script-Video-to-GIF-Windows-Subsystem-Linux/tree/main/Open_Shell_Windows/out/artifacts/Open_Shell_Windows_jar)] 
+The files in `Shell-script-Video-to-GIF-Windows-Subsystem-Linux/Open_Shell_Windows/out/artifacts/Open_Shell_Windows_jar/`
 
 todo covert to relase program
 
@@ -39,27 +37,22 @@ I learned a course in YouTube how to write a shell script and I liked how it can
 
 I am using IDE is intelliJ IDEA Ultimate 2021.2
 
-todo Strucure
+This is the project structure that explains the tool sequence, I designed it with (draw.io Diagrams)
 
-![alt text]( "figure ") todo
+![alt text](https://github.com/MohammadYAmmar/Shell-script-Video-to-GIF-Windows-Subsystem-Linux/blob/main/Structure%20and%20Media%20of%20project/Picture%20of%20project%20Sequence%20Structure.png "figure of Strucure")
 
-todo
 
 In the beginning, 
-
-
-
-
 
 todo
 
 # Shell script  :
 During the work of the project, some problems have occurred, 
 
-[[To see Codes here](https://github.com/MohammadYAmmar/)]
+[[To see Codes of shell script](https://github.com/MohammadYAmmar/Shell-script-Video-to-GIF-Windows-Subsystem-Linux/tree/main/Shell%20scripts)]
 
 
-todo
+todo design Strucure
 
 # Steps to  :
 1. Firstly 
@@ -90,9 +83,9 @@ todo
 # Future work
 - Convert JAR to EXE
 - Test in different devices and add more options if something is not found.
+- Result of testing
 - Merge two files in one
-
----
+- Release file of project after version 1 finish
 
 ---
 todo
