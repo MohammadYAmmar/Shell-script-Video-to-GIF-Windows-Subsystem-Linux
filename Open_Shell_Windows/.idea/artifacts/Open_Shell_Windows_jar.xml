@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Open_Shell_Windows:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Open_Shell_Windows_jar</output-path>
+    <root id="archive" name="Open_Shell_GIF_Windows.jar">
+      <element id="module-output" name="Open_Shell_Windows_by_Subsystem_Linux" />
+    </root>
+  </artifact>
+</component>
