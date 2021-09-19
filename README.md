@@ -1,12 +1,13 @@
 # Open Shell script in Windows by Subsystem Linux 
 # Example: Video to GIF
 
+![alt text](https://github.com/MohammadYAmmar/Shell-script-Video-to-GIF-Windows-Subsystem-Linux/blob/main/Structure%20and%20Media%20of%20project/Picture%20of%20project%20Sequence%20Structure.png "figure of Strucure")
+
 Repo name: Shell script Video to GIF Windows Subsystem Linux 
 Description: It's a tool to convert video to GIF high quality that I'll use every day. I program a shell script with a click via Java using the Linux subsystem in Windows.
 
 ![alt text]( "figure ")
 todo media folder 📼
-
 
 # What is it?
 This utility program is helpful when you need to run any shell script in Windows if already installed subsystem Linux.
@@ -29,13 +30,10 @@ https://aka.ms/wslstore
 Linux is enough just shell script.
 
 # Introduction:
-todo 2
-
 I learned a course in YouTube how to write a shell script and I liked how it can facilitate many operations in Linux, so I liked to take advantage of it in my platform, which is currently Windows 10, so I decided to facilitate a more practical process that I implement when describing a repository in GitHub, which is to convert the video into an animation, then instead of Entering the Linux terminal every time to run the shell, I decided to make a Java program whose purpose is to be an intermediary to run the shell script in two clicks and as quickly as possible. I will not need to open programs for conversion and sites that convert online anymore!
 
 # Implementation:
-
-I am using IDE is intelliJ IDEA Ultimate 2021.2
+I am using IDE is intelliJ IDEA Ultimate 2021.2 to java project and bulid JAR files. 
 
 This is the project structure that explains the tool sequence, I designed it with (draw.io Diagrams)
 
@@ -43,10 +41,9 @@ This is the project structure that explains the tool sequence, I designed it wit
 
 
 In the beginning, 
-
 todo
 
-# Shell script  :
+# Shell script:
 During the work of the project, some problems have occurred, 
 
 [[To see Codes of shell script](https://github.com/MohammadYAmmar/Shell-script-Video-to-GIF-Windows-Subsystem-Linux/tree/main/Shell%20scripts)]
@@ -61,20 +58,12 @@ todo design Strucure
 2. Create 
  
 
-
-
 # Results:
-todo
-
 This shows successful 
-
-
 
 todo
 
 # Conclusion:
-
-
 todo
 
 
@@ -88,9 +77,8 @@ todo
 - Release file of project after version 1 finish
 
 ---
-todo
-
 # Licence  
+todo
 
 ---
 
