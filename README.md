@@ -53,7 +53,7 @@ During the work of the project, some problems have occurred,
 
 The design Strucure of shell script
 
-![alt text]( "figure of Strucure shell script")
+![alt text](https://github.com/MohammadYAmmar/Shell-script-Video-to-GIF-Windows-Subsystem-Linux/blob/main/Structure%20and%20Media%20of%20project/Shell%20script%20flow%20chart.png "figure of Strucure shell script")
 
 
 # Steps to  :
