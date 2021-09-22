@@ -15,7 +15,8 @@ Simply, run the java program and put a script in the same folder, and Video if u
 Hope it helps you.
 [[To see tool with convet to GIF and AR to open any Shell script in Windows by Subsystem Linux](https://github.com/MohammadYAmmar/Shell-script-Video-to-GIF-Windows-Subsystem-Linux/tree/main/Open_Shell_Windows/out/artifacts/Open_Shell_Windows_jar)] 
 
-The files in repo in `Shell-script-Video-to-GIF-Windows-Subsystem-Linux/Open_Shell_Windows/out/artifacts/Open_Shell_Windows_jar/`
+The files in repo in
+`Shell-script-Video-to-GIF-Windows-Subsystem-Linux/Open_Shell_Windows/out/artifacts/Open_Shell_Windows_jar/`
 
 
 # What are the requirements?
@@ -24,7 +25,7 @@ Depends on where you will be running it, if on Windows you will need Java to run
 https://aka.ms/wslstore
 
 2 - Depends on the system you will be running it on, if you need to run Windows you will need Java as well as Linux as a subsystem.
-Linux is enough just shell script.
+Linux is enough just run shell script.
 
 # Results:
 This shows the process of seeing the result using the tool [for the record, this is an animation that I converted through the tool]
@@ -50,7 +51,7 @@ During the work of the project, some problems have occurred,
 [[To see Codes of shell script](https://github.com/MohammadYAmmar/Shell-script-Video-to-GIF-Windows-Subsystem-Linux/tree/main/Shell%20scripts)]
 
 
-todo design Strucure
+todo design Strucure [ v1 ]
 
 # Steps to  :
 1. todo 
