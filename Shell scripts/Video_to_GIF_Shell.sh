@@ -72,6 +72,7 @@ sudo apt-get update
 sudo apt-get install $app;;
 #sudo apt-get install $app;;
 "archlinux"|"chakra"|"manjora") sudo pacman -S $app;;
+"opensusu") sudo zypper install $app;;
 "fedora") sudo yum install $app;;
 linux*) sudo apt-get install $app;;# case support wildcard * ?
 *) echo "$distro is not supportd";;

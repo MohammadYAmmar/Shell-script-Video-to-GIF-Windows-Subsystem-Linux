@@ -51,7 +51,10 @@ During the work of the project, some problems have occurred,
 [[To see Codes of shell script](https://github.com/MohammadYAmmar/Shell-script-Video-to-GIF-Windows-Subsystem-Linux/tree/main/Shell%20scripts)]
 
 
-todo design Strucure [ v1 ]
+The design Strucure of shell script
+
+![alt text]( "figure of Strucure shell script")
+
 
 # Steps to  :
 1. todo 
