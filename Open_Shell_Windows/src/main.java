@@ -13,6 +13,8 @@ https://www.linkedin.com/in/mohammad-y-ammar/
  */
 public class main{
     public static void main(String[]args) throws IOException, InterruptedException {
+        //todo test
+       // infoBox_with_Action_Options();
 
         // Call method here to check to shell and video and send "shell"
         checkFile("Video_to_GIF.sh");//Put this as a comment if you want to run any shell in folder
@@ -36,7 +38,9 @@ public class main{
         }catch (Exception ex){
             infoBox("Video to GIF","Error: " + ex.getMessage());
         }
-    }
+
+
+    }//main
     public static void checkFile(String fileName)
     {
         try
@@ -75,7 +79,18 @@ public class main{
                 options[0]); //default button title
         //open_URL()
     }
+    //https://stackoverflow.com/questions/15853112/joptionpane-yes-no-option/15853127
+    public static void infoBox_with_Action_Options(){
+        if (JOptionPane.showConfirmDialog(null, "Are you sure?", "WARNING",
+                JOptionPane.YES_NO_OPTION) == JOptionPane.YES_OPTION) {
+            // yes option
+            open_URL();
+        } else {
+            // no option
+        }
+    }
 
+    //1
     public static void open_URL() throws IOException {
         String url = "https://github.com/MohammadYAmmar";
 
@@ -96,6 +111,29 @@ public class main{
                 e.printStackTrace();
             }
         }
+    }
+    //2
+    //https://stackoverflow.com/questions/10967451/open-a-link-in-browser-with-java-button
+    public static boolean openWebpage(URI uri) {
+        Desktop desktop = Desktop.isDesktopSupported() ? Desktop.getDesktop() : null;
+        if (desktop != null && desktop.isSupported(Desktop.Action.BROWSE)) {
+            try {
+                desktop.browse(uri);
+                return true;
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+        }
+        return false;
+    }
+
+    public static boolean openWebpage(URL url) {
+        try {
+            return openWebpage(url.toURI());
+        } catch (URISyntaxException e) {
+            e.printStackTrace();
+        }
+        return false;
     }
 
 }//class

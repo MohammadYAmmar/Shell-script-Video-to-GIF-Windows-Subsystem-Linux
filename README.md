@@ -88,7 +88,5 @@ If you have seen the description and tool with codes, can you recommend my Java 
 
 Do not forget to give the project a star ⭐🌟 to encourage us to continue if you liked it.
 
-![GitHub Repo stars](https://img.shields.io/github/stars/MohammadYAmmar/Shell-script-Video-to-GIF-Windows-Subsystem-Linux?style=social)
-
 
 Thank you for reading all of this to benefit you instead of just copying and pasting ✂!
